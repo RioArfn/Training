@@ -7,6 +7,7 @@
             "name": "Your own server",
             "server": "http://localhost",
             "serverInstance": "BC170",
+            "port": 17049,
             "authentication": "Windows",
             "startupObjectId": 22,
             "startupObjectType": "Page",
