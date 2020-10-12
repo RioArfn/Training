@@ -2,9 +2,9 @@ tableextension 50100 MyExtension extends Customer
 {
     fields
     {
-        field(1;Neko;text[10])
+        field(50000; Neko; text[10])
         {
-            
+
         }
     }
 
