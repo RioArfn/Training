@@ -1,0 +1,26 @@
+{
+  "id": "2daa8d91-28b9-4cdd-a863-c5c3d3061b53",
+  "name": "Training",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Training.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
